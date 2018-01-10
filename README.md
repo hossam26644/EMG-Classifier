@@ -1,5 +1,5 @@
 # EMG-Classifier
-EMG palmer lateral classifier using Naive bayes classifier for Biostatisitics class spring 2017
+EMG palmer lateral classifier using Naive bayes classifier for Biostatisitics class fall 2016
 
 Created by Hossam Eldin Ali, Ahmed Attia, Hazem Saeed
 
